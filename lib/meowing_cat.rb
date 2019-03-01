@@ -7,3 +7,5 @@ end
 def meow
   puts "meow!"
 end
+
+Cat.new.meow
